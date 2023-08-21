@@ -117,7 +117,7 @@
     <br>      
      <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvhhhR%2Fbtsm8M0d6hR%2FFdldWmGO25zZNlKXFeXKqK%2Fimg.png" width="655" height="400">
      <br>
-     <text>⇒ 고객이 상담할 수 있는 상담사를 선택해 상담을 신청할 수 있다.</text>
+     <text>⇒ 모달창을 통해 파일 업로드 가능.</text>
    </div>
  </details>
 
